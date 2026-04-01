@@ -1,0 +1,10 @@
+transformers 
+datasets 
+sentencepiece 
+sacrebleu 
+accelerate
+evaluate
+torch
+ipykernel
+fastapi
+uvicorn
